@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApp</string>
+
+    <string name="tv_name">Название</string>
+    <string name="tv_description">Описание</string>
+    <string name="tv_price">Цена</string>
+    <string name="title_activity_details">Подробности о товаре</string>
+</resources>
